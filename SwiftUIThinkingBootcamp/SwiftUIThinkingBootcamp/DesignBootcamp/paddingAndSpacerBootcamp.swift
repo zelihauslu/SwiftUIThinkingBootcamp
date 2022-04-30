@@ -43,7 +43,9 @@ struct paddingAndSpacerBootcamp: View {
             )
             .padding(.horizontal, 10)
             
-            
+            Spacer()
+                .frame(width: 10)
+                .background(.blue)
             
         }
        
