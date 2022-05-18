@@ -34,7 +34,7 @@ struct TransitionBootcamp: View {
             }
             
         }
-        .edgesIgnoringSafeArea(.bottom)
+         .edgesIgnoringSafeArea(.bottom)
     }
 }
 
