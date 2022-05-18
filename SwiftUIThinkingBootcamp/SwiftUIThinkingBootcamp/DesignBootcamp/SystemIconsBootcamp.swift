@@ -16,7 +16,7 @@ struct SystemIconsBootcamp: View {
 //            .foregroundColor(.orange)
 //            .frame(width: 300, height: 300)
 //            .scaledToFill()
-        // .scaledToFit()
+        //  .scaledToFit()
         // .clipped()     }
 }
 
