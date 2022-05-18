@@ -22,7 +22,7 @@ struct animationBootcamp: View {
                 Button("Button"){
                     withAnimation(
                     ) {
-                        isAnimated.toggle()
+                         isAnimated.toggle()
 
                    }
                 }
